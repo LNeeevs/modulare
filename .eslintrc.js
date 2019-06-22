@@ -21,5 +21,7 @@ module.exports = {
     'react',
   ],
   rules: {
+    "linebreak-style": 0,
+    "indent": 0
   },
 };
